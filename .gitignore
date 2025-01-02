@@ -1,13 +1,13 @@
 #Ignore IDE dirs
-*/.idea/*
-*/.vscode/*
+.idea/*
+.vscode/*
 
 #Ignore build output
-*/dist/*
-*/build/*
+dist/*
+build/*
 
 #Ignore node modules
-*/node_modules/*
+node_modules/*
 
 #Ignore TypeScript and Sass cache
 *.tsbuildinfo
