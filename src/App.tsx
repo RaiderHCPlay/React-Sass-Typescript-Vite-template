@@ -1,5 +1,3 @@
-import './styles/globals.scss'
-
 export default function App() {
     return (
         <>
