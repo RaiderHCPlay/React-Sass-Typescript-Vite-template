@@ -56,4 +56,8 @@ pnpm dev
 
 Start editing App.tsx file located in src directory to start developing!
 
+**Contributing**
+
+Feel free to contribute
+
 ***
