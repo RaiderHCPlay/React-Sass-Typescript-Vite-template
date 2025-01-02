@@ -1,0 +1,29 @@
+#Ignore IDE dirs
+*/.idea/*
+*/.vscode/*
+
+#Ignore build output
+*/dist/*
+*/build/*
+
+#Ignore node modules
+*/node_modules/*
+
+#Ignore TypeScript and Sass cache
+*.tsbuildinfo
+*.sass-cache
+
+#Ignore local files
+*.local
+
+#Ignore temporary files
+*.temp
+*.tmp
+
+#Ignore log files
+*.log
+
+#Ignore enviroment variables
+*.env
+*.env.local
+*.env.*.local
